@@ -21,8 +21,8 @@
 ---
 
 2. 設定環境變數
-   $ git config --global user.name "''" "ashleylai"
-   $ git config --global user.email "ashleylai58@gmail.com"
+   $ git config --global user.name "''" "XXX"
+   $ git config --global user.email "XXXX@gmail.com"
 
 # 確認設定的內容
 
